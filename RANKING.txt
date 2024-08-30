@@ -1,0 +1,9 @@
+Jogador1;10
+Jogador2;250
+Jogador3;590
+Jogador4;70
+Jogador5;40
+Rafael;410
+Rafael;230
+Rafael;210
+Rafael;410
